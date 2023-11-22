@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:shopping_list/screens/menu.dart';
-import 'package:shopping_list/screens/pages/list_product.dart';
+import 'package:shopping_list/screens/list_product.dart';
 import 'package:shopping_list/screens/shoplist_form.dart';
 
 class LeftDrawer extends StatelessWidget {
